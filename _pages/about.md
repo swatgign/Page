@@ -1,6 +1,6 @@
 ---
 title: About
-author: 
+author: Unknown
 date: 2024-11-16
 category: Jekyll
 layout: post
