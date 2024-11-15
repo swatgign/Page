@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+This Website is not service for public,
+if you got anything you can contact me.
