@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-Contact me at me@ , Current Domain has enabled Email Routing service.
+Contact me at me@ , Current Website has enabled Email Routing service.
